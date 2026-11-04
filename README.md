@@ -131,11 +131,10 @@ The system relies on user-provided reference materials. AI-generated content sho
 
 ## Repository Structure
 
+```text
 AeroPrompt/
-│
 ├── README.md
 ├── THIRD_PARTY_MATERIALS.md
-│
 ├── prompts/
 │   ├── 00_master_prompt.md
 │   ├── 01_vocabulary_flashcards.md
@@ -146,6 +145,6 @@ AeroPrompt/
 │   ├── 06_maintenance_task_orders.md
 │   ├── 07_technical_parameters.md
 │   └── 08_error_review.md
-│
 └── docs/
     └── system_overview.md
+```
