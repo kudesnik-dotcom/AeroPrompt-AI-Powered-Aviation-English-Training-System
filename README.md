@@ -103,16 +103,6 @@ The prompts are designed for use with general-purpose LLM platforms, including:
 
 Platform functionality and output quality may vary.
 
-## Project Documentation
-
-The accompanying training manual provides:
-
-- The recommended learning workflow
-- Grammar course structure
-- Aviation terminology reference overview
-- Complete prompt collection
-- Instructions for configuring an LLM workspace
-
 ## Author
 
 **Pavel Apikov**
